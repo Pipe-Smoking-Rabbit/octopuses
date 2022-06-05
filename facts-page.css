@@ -24,7 +24,8 @@ ul {
   margin-left: 20%;
   margin-right: 20%;
   white-space: wrap;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
   line-height: 30px;
 }
 
@@ -38,14 +39,14 @@ h2 {
   margin-right: 100px;
 }
 
-#home {
+#gif {
   position: relative;
   right: 0px;
   max-width: 5%;
   left: 92%;
 }
 
-#gif {
+#home {
   max-width: 5%;
   left: 81%;
   position: relative;
