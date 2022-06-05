@@ -10,19 +10,20 @@ body {
 }
 
 h2 {
-  text-align: right;
+  text-align: left;
   font-size: xx-large;
+  margin-left: 87%;
   margin-right: 5.5%;
 }
 
 #home {
-  position: relative;
-  max-width: 5%;
-  left: 92%;
+  position: sticky;
+  width: 5%;
+  margin-left: 84%;
 }
 
 #facts {
-  max-width: 5%;
-  left: 81%;
-  position: relative;
+  width: 5%;
+  margin-left: 1.5%;
+  position: sticky;
 }
