@@ -1,0 +1,28 @@
+body {
+  background-color: #92b9dd;
+}
+
+#gif {
+  position: relative;
+  left: 35%;
+  margin-top: 5%;
+}
+
+h2 {
+  text-align: right;
+  font-size: xx-large;
+  margin-right: 100px;
+}
+
+#home {
+  position: relative;
+  right: 0px;
+  max-width: 5%;
+  left: 92%;
+}
+
+#facts {
+  max-width: 5%;
+  left: 81%;
+  position: relative;
+}

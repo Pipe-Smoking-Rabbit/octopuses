@@ -18,11 +18,18 @@ body {
 }
 
 ul {
-  text-align: center;
-  list-style-position: inside;
+  text-align: left;
+  list-style-position: outside;
   font-size: 24px;
   margin-left: 20%;
   margin-right: 20%;
+  white-space: wrap;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  line-height: 30px;
+}
+
+li {
+  padding-top: 30px;
 }
 
 h2 {
