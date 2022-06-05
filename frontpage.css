@@ -4,38 +4,40 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 128px;
+  font-size: 700%;
   color: #145314;
-  margin-bottom: 0px;
+  margin-bottom: 0%;
 }
 
 p {
   position: relative;
-  left: 900px;
+  left: 50%;
   font-size: 24px;
   vertical-align: top;
 }
 
 #pretty-octopus {
   position: relative;
-  left: 375px;
+  left: 15%;
+  margin-top: 1%;
+  width: 50%;
+  height: auto;
 }
 
 h2 {
-    text-align: right;
-    font-size: xx-large;
-    margin-right: 100px;
+  text-align: right;
+  font-size: xx-large;
+  margin-right: 5.5%;
 }
 
 #facts {
-    position: relative;
-    right: 0px;
-    max-width: 5%;
-    left: 92%;
+  position: relative;
+  max-width: 5%;
+  left: 92%;
 }
 
 #gif {
-    max-width: 5%;
-    left: 81%;
-    position: relative;
+  max-width: 5%;
+  left: 81%;
+  position: relative;
 }

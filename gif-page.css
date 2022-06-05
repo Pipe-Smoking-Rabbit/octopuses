@@ -3,20 +3,20 @@ body {
 }
 
 #gif {
-  position: relative;
-  left: 35%;
+  position: sticky;
+  left: 36%;
   margin-top: 5%;
+  width: 30%;
 }
 
 h2 {
   text-align: right;
   font-size: xx-large;
-  margin-right: 100px;
+  margin-right: 5.5%;
 }
 
 #home {
   position: relative;
-  right: 0px;
   max-width: 5%;
   left: 92%;
 }
